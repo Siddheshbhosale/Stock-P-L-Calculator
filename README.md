@@ -1,2 +1,2 @@
-# Stock-P-L-calculator
+# Stock-P-L-Calculator
 Created with CodeSandbox
